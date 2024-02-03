@@ -9,7 +9,7 @@
 
 para testar, pode ser utilizado via postman:  http://localhost:3000/vendas
 
-``
+```
 fetch('http://localhost:3000/vendas', {
   method: 'POST',
   headers: {
@@ -28,4 +28,4 @@ fetch('http://localhost:3000/vendas', {
 .then(data => console.log(data))
 .catch(error => console.error('Erro:', error));
 
-``
+```

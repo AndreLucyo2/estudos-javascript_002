@@ -7,6 +7,8 @@
 
 ---
 
+Rodar o servidor pelo terminar: ``node src/server.mjs``
+
 para testar, pode ser utilizado via postman:  http://localhost:3000/vendas
 
 ```
